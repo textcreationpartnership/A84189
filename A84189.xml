@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and true relation in relieving the resolute garrison of Lyme in Dorset-shire, by the Right Honourable, Robert Earle of Warwicke, Lord High Admirall of England. Besieged by Prince Maurice, the Lord Inchiquin, and his Irish rogues, together with the Lord Pawlet. As also the particular passages in many gallant sallyes and assaults betwixt the enemy and themselves, with the brave courage of many female souldiers: as also the taking two ships of great value, that were comming to relieve the enemy: and the present condition in which the town at this instant is, with other remarkable mews fron Exceter. As it was sent by a speciall and faithfull hand, from His Majesties ship called the Iames, riding now at anchor before Lyme, dated Iune the first.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84189</idno>
+            <idno type="STC">Wing E3611</idno>
+            <idno type="STC">Thomason E50_23</idno>
+            <idno type="STC">ESTC R6326</idno>
+            <idno type="EEBO-CITATION">99872971</idno>
+            <idno type="PROQUEST">99872971</idno>
+            <idno type="VID">155160</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84189)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155160)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E50[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and true relation in relieving the resolute garrison of Lyme in Dorset-shire, by the Right Honourable, Robert Earle of Warwicke, Lord High Admirall of England. Besieged by Prince Maurice, the Lord Inchiquin, and his Irish rogues, together with the Lord Pawlet. As also the particular passages in many gallant sallyes and assaults betwixt the enemy and themselves, with the brave courage of many female souldiers: as also the taking two ships of great value, that were comming to relieve the enemy: and the present condition in which the town at this instant is, with other remarkable mews fron Exceter. As it was sent by a speciall and faithfull hand, from His Majesties ship called the Iames, riding now at anchor before Lyme, dated Iune the first.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Mathew Walbanke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Iune 10. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Maurice, --  Prince, 1620-1652 --  Early works to 1800.</term>
+               <term>Inchiquin, Murrough O'Brien, --  Earl of, 1614-1674 --  Early works to 1800.</term>
+               <term>Warwick, Robert Rich, --  Earl of, 1587-1658 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Lyme Regis (Dorset) --  Siege, 1644 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155160:1" rendition="simple:additions"/>
+            <p>An Exact and True RELATION In Relieving the reſolute GARRISON Of LYME In DORSET-SHIRE, By the Right Honourable, <hi>Robert</hi> Earle of <hi>Warwicke,</hi> Lord High Admirall of ENGLAND.</p>
+            <p>Beſieged by Prince <hi>Maurice,</hi> the Lord <hi>Inchiquin,</hi> and his Iriſh Rogues, together with the Lord <hi>Pawlet.</hi>
+            </p>
+            <p>As alſo the particular paſſages in many gal<g ref="char:EOLhyphen"/>lant Sallyes and aſſaults betwixt the Enemy and themſelves, with the brave courage of many female Soul<g ref="char:EOLhyphen"/>diers: As alſo the taking two ſhips of great value, that were comming to relieve the enemy: and the preſent condition in which the Town at this inſtant is, with other remarkable news from <hi>Exceter.</hi>
+            </p>
+            <p>As it was ſent by a ſpeciall and faithfull hand, from His Majeſties Ship called the <hi>Iames,</hi> riding now at Anchor before <hi>Lyme,</hi> Dated <hi>Iune</hi> the firſt.</p>
+            <p>
+               <hi>Iune</hi> 10. Printed for <hi>Mathew Walbanke.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155160:2"/>
+            <pb n="1" facs="tcp:155160:2"/>
+            <head>An exact and true RELATION IN Relieving the reſolute garriſon of LIME in Dorcetſhire.</head>
+            <opener>
+               <salute>Deare Sir,</salute>
+            </opener>
+            <p>I Have written one Letter to you ſince I came in<g ref="char:EOLhyphen"/>to this <hi>Bay.</hi> Yeſterday I received yours of the 24 of <hi>May,</hi> rejoycing much in that health which God pleaſeth yet to continue to you and my familie at home. I thank God I am well, onely much ſad<g ref="char:EOLhyphen"/>neſſe of ſpirit is contracted from the ſad ſpectacle that beſieged <hi>Lime</hi> doth continually offer to ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> view; a Towne that deſerves abundance of pittie and love, they being ſtill under the violence of a cruell Enemie. Captaine <hi>Pine,</hi> of whoſe wounding I writ to you in my laſt, is ſince dead: God brought my Lord hither to a ſingular purpoſe, it tending to ſave that diſtreſſed Towne hitherto, having not in it at his Lordſhips comming, above two dayes bread, and a ſmall quantitie of Ammunition. There are in the Towne 4000 ſoules, whereof 1000 in G<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rriſon; who though they want Shooes, Stockings, Clothes? and pay, and have not departed from <hi>Lime</hi> ſince the beginning of the ſiedge; yet are all of them reſolved
+<pb n="2" facs="tcp:155160:3"/>to ſtand out to the laſt man: and when they can doe no more, to breake through the Enemie with their ſwords.</p>
+            <p>At my Lords firſt comming, he ſent on ſhoare neere 40 barrells of Powder and ſome Match, which came along with his Lordſhip purpoſely for their reliefe. The Ships under his Lordſhips commands did before his comming, ſpare what Proviſions they could, none comming to them from other parts, and the paſſages by Sea being neer blockt up, his Lord<g ref="char:EOLhyphen"/>ſhip contracted, for 350 pounds worth of Come and other Proviſions, being then bound for <hi>Plymouth</hi> to be ſold there, and tooke order to ſend it into the Towne, himſelfe undertaking the price.</p>
+            <p>The condition and courage of the beſieged did ſo prevaile with our Sea-men, that on Saturday laſt, out of their poore overplus, they ſent them above 30 paire of Boots, 100 paire of Shooes, 160 pure of Stockings, ſome Linnen and old clothes, and ſome quantitie of Fiſh and Bread, that they had formerly, ſaved out of their Sea allowance. They did alſo una<g ref="char:EOLhyphen"/>nimouſly give one fourth part of their bread for the next foure moneths, amounting to 9000 weight, which their hard labour and conſtant cutie might ad<g ref="char:EOLhyphen"/>viſe them to have reſerv'd rather for their own bellies. On Monday laſts my Lord and the Ships with him, determin'd to ſpare them 2000 weight of bread more, and ſome quantities of Beefe, Porke, Shot, Fiſh, and other neceſſaries. That day ſome of our Sea-men were deſired by the Towne to looke to the <hi>Lyme,</hi> while 600 of the Garriſon ſallyed on the Ene<g ref="char:EOLhyphen"/>mie, and 300 men were reſolved to be ſent; but the
+<pb n="3" facs="tcp:155160:3"/>ſame day the Towne received a terrible for me from the Enemie, yet with little advantage to the beſiegers, they 100 ſing about 60. and the Town but eight, one<g ref="char:EOLhyphen"/>ly ſome of their Comanders were then hurt, <hi>viz.</hi> Colonell <hi>Ware</hi> was ſhot in the bellie, but not dange<g ref="char:EOLhyphen"/>rouſly, and Lieutenant Colonell <hi>Blake</hi> was ſlightly hurt in the foot. The Towneſmen of the three Cap<g ref="char:EOLhyphen"/>taines that led up the forlorne hope, killed one Cap<g ref="char:EOLhyphen"/>tain <hi>Southern,</hi> who had on the Lord <hi>Paulets</hi> own Ar<g ref="char:EOLhyphen"/>mour, and tooke priſoner another, <hi>viz.</hi> Captaine <hi>Aſton,</hi> who was the next day brought aboard our Ship. This Captaine <hi>Aſton</hi> is brother to a ſervant of Maſter <hi>Ketchmar</hi> in <hi>Fiſh ſtreet:</hi> the Enemie refuſed to take off their dead, reſolving to burie them, and to take the Towne altogether. But God afterwards corrected their daring &amp; preſumptuous Cruckie. The Garriſon being in couraged by this ſucceſſe, reſolved to proſecute their former purpoſe of ſallying, and in purſuance thereof, on Tueſday night laſt, the 300 men were ſent ſafely on ſhoare, though to make good their landing 3 or 4 of the Townſmen were ſhin, On the ſame Tueſday, his Lordſhip determin'd to ſend two of his Sips, &amp; all the ſhip-boats futed with men towards <hi>Char<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>outh, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>port,</hi> &amp; other places about ſix miles fro<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>Line,</hi> that the Enemies opinion of our land<g ref="char:EOLhyphen"/>ing men in thoſe parts, might draw off the horſe, where<g ref="char:EOLhyphen"/>by the ſallie would be more ſecure and advantagious. And on Wedneſday laſt the ſhips and boats were ac<g ref="char:EOLhyphen"/>cordingly ſent out, at a time ſignified from the towne by ſhooting off a Gun from <hi>Daves</hi> fort and giving an alarme on the Eaſt ſhoare, obtained what was in de<g ref="char:EOLhyphen"/>ſigne. For all the day long, foure or five troopes of
+<pb n="4" facs="tcp:155160:4"/>horſe, and ſome hundreds of foot, attended the mo<g ref="char:EOLhyphen"/>ving of the ſhips and boats, from whence diverſe great ſhot and ſmall ſhot played into lands, which forced the enemie to caſt up a breſt-work by the ſea ſide for their owne defence. The enemie miſtooke the inten<g ref="char:EOLhyphen"/>tion, ſuppoſing that theſe boats had in the night taken men out of the Towne, with purpoſe to ſet them on ſhore, for getting of proviſions into the Towne, or to fall on the reare; and thereby thinking the Towne to be weakned, they did on the ſame Wedneſday neere the time appointed for ſallying, aſſault the Towne with great ſurie: from about ſixe at night to about eight at night, there was ſuch a continuall peale of ſmall ſhot and great ſhot, that the Towne ſeemed to be all on a flame; twice the enemie made an orderly retreat, appearing each time in a body of about a thouſand men. The third aſſault was moſt violent, the enemie advancing with brave reſolution, and be<g ref="char:EOLhyphen"/>ing as gallantly received by the Towneſmen. A little after eight of the clock there was a remitting of the former furie; and about nine, an almoſt generall ſilence. There was ſlaine of the enemie in this aſſault, as ſome of the Towne this day aboord computed, foure hundred; and of the garriſon, but ſix or ſeven kild and wounded, whereof Major <hi>Townsend</hi> was one, who was ſhot in the head, but is ſtill alive. Amongſt the ſtaine, there was found one Gentlemen that came that morning from <hi>Exeter</hi> with Letters for <hi>Oxford,</hi> whither he would faine have carryed the newes of the taking of <hi>Lyme,</hi> but God prevented him, and the Let<g ref="char:EOLhyphen"/>ters found in his pocket are ſent to <hi>London;</hi> the prin<g ref="char:EOLhyphen"/>cipall thing imparted by them being, that they heard
+<pb n="5" facs="tcp:155160:4"/>the wayes to <hi>Oxford</hi> began to be obſtructed; that the Queene was better then formerly, and much com<g ref="char:EOLhyphen"/>forted in Doctor <hi>Mirons</hi> comming on Sabbath day laſt.</p>
+            <p>On Thurſday laſt there was a parley in the Towne, the enemie deſiring to burie their dead, which before they ſcorn'd.</p>
+            <p>Yeſterday ſome reliefe came for the Towne by Sea, and in the afternoone part of the Towne was fired, yet but three houſes burnt. This day another part of the Towne was fired, and at this inſtant the fire en<g ref="char:EOLhyphen"/>creaſeth, and twentie new houſes are burnt.</p>
+            <p>You may now judge the ſtate of poore <hi>Lyme,</hi> but if you ſaw it as it is continually before us, your eyes would much affect your baſte, conſidering that ſuch gallant ſpirits, worth a Nation indeed, ſhould be the ſubjects on which the rage and madneſſe of a baſe and cruell enemie is from day to day exerciſed and im<g ref="char:EOLhyphen"/>printed.</p>
+            <p>If <hi>London</hi> knew their merit and condition, I am confident they would not only compaſſionate them, but relieve them: what is wanting in men, will bee made up I hope by the power and providence of hea<g ref="char:EOLhyphen"/>ven, whoſe ſalvation hath him hither to appointed by God, for their wals, and bulwarkes ſomethings I may not omit, that at the late ſtorming, one woman ſhot off 16 Muſquets upon the enemy, and the wo<g ref="char:EOLhyphen"/>men of the Town generally did fill the Souldiers Bandileres while they ſought: the continuance of their dangers having much blunted the ſence of their dangers, retaining in their ſpirits a conſtant cheere<g ref="char:EOLhyphen"/>fulneſſe, as knowing they ſhall have deliverance,
+<pb n="6" facs="tcp:155160:5"/>ther from the affliction, or by it: and to all let mee adde, that this mercy to them was the reſult. I doubt not of the prayers put up at the inſtant on their be<g ref="char:EOLhyphen"/>halfe, from aboard as well as in other parts of the Kingdome.</p>
+            <p>We have taken upon the ſeas ſince our ſetting from the <hi>Downs,</hi> 2 prizes, one a <hi>Dartmouth</hi> veſſell, laden with oyle and ſalt for <hi>Holland,</hi> and the other was brought into us on Saturday laſt which was a Dutch Galliot laden with commodities for the enemie at <hi>Aptham,</hi> and <hi>Exceter,</hi> to the value of 8000 <hi>li.</hi> and the Maſter of the Galliot him ſelfe confeſſed, that they had for her more ſafe convoy of the company of two States men of War, who had aboard their ſhips 5 barrels of money amounting to 1000 Dollars, confined to ſome malignants in <hi>Exceter:</hi> the factor under whoſe charge the money went committed, being aboard the men of war, was loath to be diſcovered, but at length being apprehended, and brought before his Loadſhip was for ſome peremptory ſpeeches to my Lord put in ſafe cuſtody the goods will prove undeniable prize.</p>
+            <closer>
+               <dateline>Erom aboard his Majeſties ſhip the <hi>James,</hi> at an<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her before <hi>Lime,</hi>
+                  <date>the firſt of <hi>June.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>This is Licenſed according to Order.</p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
